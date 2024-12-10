@@ -11,7 +11,7 @@
 - 📊 Mastering **Excel VBA** to automate tasks and streamline workflows in **MS Office**.  
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zunairanoor-tech-github-username&show_icons=true&count_private=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zunairanoor-github-username&show_icons=true&count_private=true&hide=prs)
 
 
 ### 🛠️ Skills
